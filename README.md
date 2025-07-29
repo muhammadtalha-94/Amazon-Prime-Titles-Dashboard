@@ -11,7 +11,7 @@ An interactive Power BI dashboard analyzing 9,600+ Amazon Prime movies and TV sh
 
 - `Amazon Prime Titles.pbix` – Power BI file with visuals, filters, and DAX measures  
 - `amazon_prime_titles.csv` – Raw dataset used for building the dashboard  
-- `Amazon Prime Titles.png` – Dashboard preview image  
+- `Amazon Prime Titles Dashboard Image.png` – Dashboard preview image  
 
 ## ✅ Key Features
 
